@@ -1,0 +1,23 @@
+{
+  "name": "avito-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(1)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvarKhakimov/avito-parser.git"
+  },
+  "author": "Anvar Khakimov",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/anvarKhakimov/avito-parser/issues"
+  },
+  "dependencies": {
+    "cheerio": "~0.12.1",
+    "iconv": "~2.0.6",
+    "request": "~2.26.0"
+  }
+}
